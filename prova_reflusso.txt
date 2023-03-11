@@ -1,4 +1,2 @@
 #qualche codice
-* riga filippo
-* riga filippo2
-* riga filippo3
+* riga filippo 4
